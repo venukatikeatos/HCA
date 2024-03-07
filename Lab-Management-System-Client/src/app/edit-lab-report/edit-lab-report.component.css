@@ -1,0 +1,6 @@
+.readonly-input {
+    background-color: #f0f0f0; /* Change to your desired background color */
+    color: #333; /* Change to your desired text color */
+    border: 1px solid #ccc; /* Change to your desired border color */
+    cursor: not-allowed; /* Change cursor style */
+  }
